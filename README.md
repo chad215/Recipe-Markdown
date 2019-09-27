@@ -1,6 +1,7 @@
 # recipe-Markdown
  Pancake recipe
-Ingredient's:                                                                                                       1. 1/2 Cup of flour
+Ingredient's:
+1. 1/2 Cup of flour
 2. 3 tablespoons sugar
 3. 1 tablespoon baking powder
 4. 1/4 teaspoon salt
